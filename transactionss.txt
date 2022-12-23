@@ -1,0 +1,2 @@
+withdrew 1.0 with a new balance of 49.0
+deposited 10.0 with a new balance of 60.0
